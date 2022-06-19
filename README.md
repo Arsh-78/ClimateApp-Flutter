@@ -8,7 +8,11 @@ I Made  a weather app inspired by the beautiful designs made by [Olia Gozha](htt
 
 To run the app just clone it from VCS in android studio
 
+
+
 ![Finished App](https://github.com/londonappbrewery/Images/blob/master/clima-demo.gif)
+
+
 
 
 
